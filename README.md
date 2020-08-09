@@ -1,1 +1,0 @@
-# Cisco-UCS-Manager-Details
